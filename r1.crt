@@ -1,0 +1,57 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            52:4e:09:b0:c4:7f:68:e7:ba:3d:57:34:e2:50:a6:42
+        Signature Algorithm: ecdsa-with-SHA256
+        Issuer: C=ZZ, O=WindTalker Matrix, OU=WindTalker Security Center, CN=WindTalker Root R1
+        Validity
+            Not Before: Jan  9 11:02:11 2024 GMT
+            Not After : Jan  6 11:02:11 2034 GMT
+        Subject: C=ZZ, O=WindTalker Matrix, OU=WindTalker Security Center, CN=WindTalker Root R1
+        Subject Public Key Info:
+            Public Key Algorithm: id-ecPublicKey
+                Public-Key: (384 bit)
+                pub:
+                    04:68:4c:cc:7e:5b:c2:d1:77:1b:d5:36:6c:f6:c2:
+                    08:0b:24:b3:10:39:ad:e2:9c:ea:29:2d:e2:1f:0a:
+                    d0:72:2c:f1:d6:bc:d7:26:fe:0d:61:71:0f:4e:4f:
+                    2e:a9:2c:3a:c8:f5:b5:9d:a3:05:47:b7:73:25:cc:
+                    7e:17:8e:26:db:d3:b6:ee:f3:9a:91:ed:b8:4e:fb:
+                    d0:b1:83:06:e3:c8:bf:87:93:86:61:24:39:dd:e1:
+                    75:15:86:4c:a7:c4:72
+                ASN1 OID: secp384r1
+                NIST CURVE: P-384
+        X509v3 extensions:
+            X509v3 Basic Constraints: critical
+                CA:TRUE
+            X509v3 Key Usage: critical
+                Digital Signature, Certificate Sign, CRL Sign
+            X509v3 Subject Key Identifier: 
+                3B:FB:30:96:05:48:33:58:91:E7:D9:19:35:C4:C2:92:E1:E8:17:45
+            X509v3 Authority Key Identifier: 
+                3B:FB:30:96:05:48:33:58:91:E7:D9:19:35:C4:C2:92:E1:E8:17:45
+    Signature Algorithm: ecdsa-with-SHA256
+    Signature Value:
+        30:65:02:31:00:c8:0b:77:2f:09:aa:ce:5b:63:17:35:6e:33:
+        7f:64:d6:ca:44:82:7a:9e:c6:a1:11:1a:82:3b:29:6c:4f:a4:
+        53:c1:d3:93:97:48:15:e2:19:10:62:5c:54:e5:59:54:24:02:
+        30:7e:60:e6:45:aa:d5:72:09:81:8d:49:62:a0:8c:4b:b8:29:
+        44:4e:9a:0f:fa:68:f8:a6:b4:56:85:af:59:ef:3d:84:ca:5b:
+        42:0c:77:37:ac:69:ce:7b:6b:9a:e1:84:1c
+-----BEGIN CERTIFICATE-----
+MIICdDCCAfqgAwIBAgIQUk4JsMR/aOe6PVc04lCmQjAKBggqhkjOPQQDAjBrMQsw
+CQYDVQQGEwJaWjEaMBgGA1UECgwRV2luZFRhbGtlciBNYXRyaXgxIzAhBgNVBAsM
+GldpbmRUYWxrZXIgU2VjdXJpdHkgQ2VudGVyMRswGQYDVQQDDBJXaW5kVGFsa2Vy
+IFJvb3QgUjEwHhcNMjQwMTA5MTEwMjExWhcNMzQwMTA2MTEwMjExWjBrMQswCQYD
+VQQGEwJaWjEaMBgGA1UECgwRV2luZFRhbGtlciBNYXRyaXgxIzAhBgNVBAsMGldp
+bmRUYWxrZXIgU2VjdXJpdHkgQ2VudGVyMRswGQYDVQQDDBJXaW5kVGFsa2VyIFJv
+b3QgUjEwdjAQBgcqhkjOPQIBBgUrgQQAIgNiAARoTMx+W8LRdxvVNmz2wggLJLMQ
+Oa3inOopLeIfCtByLPHWvNcm/g1hcQ9OTy6pLDrI9bWdowVHt3MlzH4Xjibb07bu
+85qR7bhO+9CxgwbjyL+Hk4ZhJDnd4XUVhkynxHKjYzBhMA8GA1UdEwEB/wQFMAMB
+Af8wDgYDVR0PAQH/BAQDAgGGMB0GA1UdDgQWBBQ7+zCWBUgzWJHn2Rk1xMKS4egX
+RTAfBgNVHSMEGDAWgBQ7+zCWBUgzWJHn2Rk1xMKS4egXRTAKBggqhkjOPQQDAgNo
+ADBlAjEAyAt3LwmqzltjFzVuM39k1spEgnqexqERGoI7KWxPpFPB05OXSBXiGRBi
+XFTlWVQkAjB+YOZFqtVyCYGNSWKgjEu4KUROmg/6aPimtFaFr1nvPYTKW0IMdzes
+ac57a5rhhBw=
+-----END CERTIFICATE-----
